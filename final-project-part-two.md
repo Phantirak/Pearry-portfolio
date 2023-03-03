@@ -57,8 +57,7 @@ Overall, I got positive feedback on the visualizations and the coherence of the 
 Please see the detail of the interviewees’ responses to each question in the table below:
 
 **Question1**
-
-What are your initial reactions at the first glance?
+**What are your initial reactions at the first glance?**
 
 Interview 1
 At first glance, I thought it was a topic about promoting Thailand’s tourism due to the images and visualization. After I saw the topic title then I realized it’s about economics. She has done a very good job on visualization and the content is easy to read. Make me want to continue going through the story.
@@ -73,7 +72,7 @@ Interview 4
 Impressed with the very nice design of graphics and visualization
 
 **Question2**
-Overall, do the flow of the story and data clear and make sense? What is the main message that the story is trying to convey
+**Overall, do the flow of the story and data clear and make sense? What is the main message that the story is trying to convey**
 
 Interview 1
 Yes, clear message and the flow is logical coherence.
@@ -92,9 +91,7 @@ Regarding the related stories, the overall structure is coherent, except for the
 The main message is saying that regardless of Thailand’s popularity in tourism, Thai people are stuck in the middle-income trap.
 
 **Question3**
-
-Are you able to identify who is the target audience?
-Does the visualization support the context of storytelling and is compelling enough for “call-to-action”? 
+**Are you able to identify who is the target audience? Does the visualization support the context of storytelling and is compelling enough for “call-to-action”?**
 
 Interview 1
 Adding the title and subtitle can help clarify the understanding of the graph
@@ -124,10 +121,12 @@ I would add some visuals to support the statement or else focusing only on finan
 ## Identified changes for Part III
 # Final thoughts and future updates
 For the aesthetic and attraction, overall, the graphic and visualizations are beautiful and successfully engage the audience, encouraging them to continue reading the story further. I might consider changing the picture in the story title so that the audience could understand at the first glance that this topic is about Thailand’s economy not promoting the tourism industry.
+
 In terms of story flow and logical coherence, most of my interviewees understand the flow and the transition of the story and be able to grasp the key message which is “Despite being a world-renowned tourist destination, Thailand remains trapped in a middle-income country.” However, one of my interviewees suggests that in the transition between solution and call to action, I can make it smooth and clearer by using more actionable words.
+
 My visualizations and pictures are mainly supporting the context. The interviewees like the quality and easy-to-comprehend of the graphs and how they actually provide valuable information. However, to be more specific in detail, I need to revise the coloring, the title and the subtitle as well as the analysis content. Specifically, it needs to be more concise, focusing on middle income and not make the audience confused with the inequality income. In addition, some disclaimers should be added to the related context, for example, the comparative of R&D expenditure between South Korea and Thailand as well as the different weight of GDP calculation in each country.
-For the persuasive effectiveness part, I successfully convey the message of who is the target audience. However, I might need to shorten the background information and emphasizes more on the call to action.
-I summarize the future changes in the table below:
+
+For the persuasive effectiveness part, I successfully convey the message of who is the target audience. However, I might need to shorten the background information and emphasizes more on the call to action. I summarize the future changes in the table below:
 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
