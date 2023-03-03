@@ -16,3 +16,4 @@ In the design, I decide to use tree map, highlighting the country that has the h
 ## Government Debt Data chart 3
 I then scope only Europe region so the comparative context is reasonable and concrete. Now you can see that Greece financial debt leaned toward bankruptcy, which threatened to set off a new financial crisis in the Europe.
 <div class="flourish-embed flourish-map" data-src="visualisation/12596807"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
