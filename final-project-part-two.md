@@ -5,7 +5,7 @@ From the outline and the first sketches of the project in part 1, I will now sta
 For the data visualization part, I mainly use “Flourish” to create charts/graphs to support my statement/context and embed such visualizations into Shorthard to complete my storytelling. One nice thing about Flourish is that it has motion features on the graph such as a racing line chart which makes my presentation more robust and persuasive to the audience. 
 I believe that the combination of shorthand and Flourish features will provide my target interviewees with a high-fidelity impression and easy-to-follow, yet impactful for the call to action which is the key element of the story. Here is my storyboard!
 
-https://preview.shorthand.com/o2u0xoVOO73AgGjk 
+[My Story Link is Here](https://preview.shorthand.com/o2u0xoVOO73AgGjk)
 
 Noticing here that for the final project part 2, my work is still working in progress. Some analyses might not be in-depth/concise enough, and I might revise some charts to make the story clearer to the audience. But you will be able to see the skeleton of the story and the critical key elements as well as visualization in Shorthand. After the in-class critique and feedback that I will receive after conducting the user research, the content and the visualization will revise and finalized in project part 3.
 
