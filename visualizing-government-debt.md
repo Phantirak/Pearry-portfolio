@@ -1,4 +1,4 @@
-| [home page](pearry-portfolio) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page]([pearry-portfolio](https://phantirak.github.io/pearry-portfolio/)) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Government Debt Data from the original source, OEDC
 The first chart that I would like to show is the bar chart compared across countries.
