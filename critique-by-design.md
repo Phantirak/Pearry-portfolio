@@ -87,33 +87,34 @@ For this section, I will ask three people for feedback about the sketches above.
 
 The first person, a student late 20’s
 
-•	She understands that the graph shows the CPI index for each country and compares the trend between them but does not certain what the line is for. She assumes that the moving trend line might be for Thailand or the average CPI index.
-•	She thinks that the intended audience is the Finance department in Thailand.
-•	The number of countries comparison is quite overwhelming. The chart might not need all those countries. She suggests trying to be more specific in selecting which country to compare with. In addition, it seems that all countries also have spiked CPI, not only Thailand in 2020. 
-•	It’s a little bit hard to read the label for 2022 and delete the x-axis for 2012 and 2023 if does not have data.
+-	She understands that the graph shows the CPI index for each country and compares the trend between them but does not certain what the line is for. She assumes that the moving trend line might be for Thailand or the average CPI index.
+-	She thinks that the intended audience is the Finance department in Thailand.
+-	The number of countries comparison is quite overwhelming. The chart might not need all those countries. She suggests trying to be more specific in selecting which country to compare with. In addition, it seems that all countries also have spiked CPI, not only Thailand in 2020. 
+-	It’s a little bit hard to read the label for 2022 and delete the x-axis for 2012 and 2023 if does not have data.
 
 The second person, a student late 20’s
-
-•	The visualization displays a trend in data. Initially, based on the title, he assumed this was a particular data trend regarding Thailand and it seems to be a comparison of the CPI of various countries.
-•	The audience may be people who are concerned about the Thai or international economy in general.
-•	He finds that the title and context of the visualization present a high likelihood of being misleading and therefore, confusing. The title appears to suggest that the content pertains to Thailand, however, upon examining the bar graph and legend, it seems that the primary purpose is to compare the CPI of multiple countries. Additionally, there is a line present in the visualization that he is unable to comprehend its meaning or the data it represents among the various information presented. 
-•	He comments that the title or subtitle could be easily revised to accurately reflect the content and avoid giving the impression that the visualization pertains solely to Thailand. The revised title or subtitle should accurately convey that the content is a comparison of various countries with a focus on Thailand. Additionally, he suggests a more clear legend for the line present between the bar charts be provided. If deemed unnecessary, the lines may be considered for removal.
-•	Remove the X-axis for 2012 and 2023 since it does not have data.
+-	The visualization displays a trend in data. Initially, based on the title, he assumed this was a particular data trend regarding Thailand and it seems to be a comparison of the CPI of various countries.
+-	The audience may be people who are concerned about the Thai or international economy in general.
+-	He finds that the title and context of the visualization present a high likelihood of being misleading and therefore, confusing. The title appears to suggest that the content pertains to Thailand, however, upon examining the bar graph and legend, it seems that the primary purpose is to compare the CPI of multiple countries.
+Additionally, there is a line present in the visualization that he is unable to comprehend its meaning or the data it represents among the various information presented. 
+-	He comments that the title or subtitle could be easily revised to accurately reflect the content and avoid giving the impression that the visualization pertains solely to Thailand. The revised title or subtitle should accurately convey that the content is a comparison of various countries with a focus on Thailand. 
+Additionally, he suggests a more clear legend for the line present between the bar charts be provided. If deemed unnecessary, the lines may be considered for removal.
+-	Remove the X-axis for 2012 and 2023 since it does not have data.
 
 The third person, a student late 20’s
+-	The graph shows the CPI movement across time, focusing on Thailand. 
+-	The audience might be an economic specialist.
+-	She thinks that the title is not clear and would like to add more subtitles explaining the meaning of the CPI index.
+-	She likes how I use color to distinguish Thailand from other countries. However, she suggests that I should put a number label on the bar. In addition, I should put the countries’ legends only once, either on the bar or in a separate box. Reducing the number of countries is also a good option to make the graph clearer and consider changing from an abbreviation name to a full name so the audience can easily understand at glance.
+-	For the line, use Thailand’s CPI instead of the overall CPI average since the context is about Thailand. Moreover, remove the number from the line and use the same color as signified Thailand in the stacked bar.
+-	Remove the X-axis for 2012 and 2023 if does not have data and add unit measured in Y-axis
 
-•	The graph shows the CPI movement across time, focusing on Thailand. 
-•	The audience might be an economic specialist.
-•	She thinks that the title is not clear and would like to add more subtitles explaining the meaning of the CPI index.
-•	She likes how I use color to distinguish Thailand from other countries. However, she suggests that I should put a number label on the bar. In addition, I should put the countries’ legends only once, either on the bar or in a separate box. Reducing the number of countries is also a good option to make the graph clearer and consider changing from an abbreviation name to a full name so the audience can easily understand at glance. 
-•	For the line, use Thailand’s CPI instead of the overall CPI average since the context is about Thailand. Moreover, remove the number from the line and use the same color as signified Thailand in the stacked bar.
-•	Remove the X-axis for 2012 and 2023 if does not have data and add unit measured in Y-axis
-In-class critique
-•	Because of the color, the graph makes it stands out that it is the CPI movement of Thailand compared with other countries across time.
-•	They suggest using the trend line of Thailand’s CPI movement instead of the global average since the target audience is specific in the Thai financial landscape.
-•	Some audiences might not know what is CPI, should add a subtitle explaining the meaning and implications
-•	Revise the comparison countries, remove some countries that are not relevant to the Thai context or policy maker’s decision for example, removes “Germany and add “China” instead
-•	Can add the time event for the COVID-19 pandemic surge in 2020 so that the audience will understand immediately why the CPI increased during that period.
+## In-class critique
+-	Because of the color, the graph makes it stands out that it is the CPI movement of Thailand compared with other countries across time.
+-	They suggest using the trend line of Thailand’s CPI movement instead of the global average since the target audience is specific in the Thai financial landscape.
+-	Some audiences might not know what is CPI, should add a subtitle explaining the meaning and implications
+-	Revise the comparison countries, remove some countries that are not relevant to the Thai context or policy maker’s decision for example, removes “Germany and add “China” instead
+-	Can add the time event for the COVID-19 pandemic surge in 2020 so that the audience will understand immediately why the CPI increased during that period.
 
 
 The similarities that emerged were:
