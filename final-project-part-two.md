@@ -24,19 +24,19 @@ Third, to ensure that my final project is intuitive and understandable to all, m
 Forth, as optional, I would like to interview those who are from the East Asia region. This is because they will understand the background and context of why I selected the specific country to compare with Thailand. For example, I would pick Vietnam, the Philippines, Indonesia, and Malaysia to compare the GDP per capita in order to illustrate the depreciation of Thailand’s competitiveness since those countries are considered the same tier of developing nations in the region.
 I identified four interviewees for the user research, with the following characteristics:
 
-Interview 1: Female senior central banker (35), Thailand
+**Interview 1: Female senior central banker (35), Thailand**
 
 Her background education is a bachelor’s degree in Economics and a master’s in public policy. She has extensive working experience in the Central Bank of Thailand for more than six years. She is an expert in banking supervision and monetary policy formulation area. She also has a background in using data to communicate with stakeholders which are mainly financial institutions and executives in the central bank.
 
-Interview 2: Female policy-data analytics pathway student and former employee in the Office of Insurance Commission (29), Thailand
+**Interview 2: Female policy-data analytics pathway student and former employee in the Office of Insurance Commission (29), Thailand**
 
 Prior to her master’s degree, she had some working experience in a government agency in Thailand and mainly used data for communication and policy formulation. Currently, she is studying data analytics and took the “Telling Story with Data” course before.
 
-Interview 3: Male policy-data analytics pathway student and former employee in the Ministry of Finance (28), Japan
+**Interview 3: Male policy-data analytics pathway student and former employee in the Ministry of Finance (28), Japan**
 
 He completed his undergraduate studies in Economics. He had extensive working experience of more than five years in the financial and economic field. Currently, he is studying data analytics, specializing in Advanced Machine Learning.
 
-Interview 4: Male policy student and former employee in the Ministry of Finance (30), Indonesia
+**Interview 4: Male policy student and former employee in the Ministry of Finance (30), Indonesia**
 
 He has extensive working experience in both economics and the public policy field. Currently, he is studying public policy and took some courses related to data analytics and visualization.
 
