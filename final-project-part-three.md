@@ -2,7 +2,8 @@
 
 # The final data story
 From final project part I where I developed the outline and draft my sketch to part II where I started to take the reader through my story wireframes and seek for feedback, now we reach the final part of the story! In this project part III, I will take you through all the revision and decision I have made to reach my final version. And here is the link to my final story **“Middle-Income Trap, Thailand”!**
-[Link to my Final Story]https://preview.shorthand.com/o2u0xoVOO73AgGjk#group-section-8-VrSscEgu3j 
+
+[Link to my final story](https://carnegiemellon.shorthandstories.com/middle-income-trap-thailand/index.html)
 
 
 # Changes made since Part II
@@ -26,21 +27,43 @@ As one of my interviewees comment about the confusion between middle income trap
 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+Intitially my target audience I specified in Final Project Part I is the financial government agency i.e., Central Bank of Thailand. However, after reading through many research papers, I found out that in order to equip the country into high-income status, solely depend on the financial policy is not enough. You need to have other essential elements that go together such as skill development/ labor market reform to achieve the structural transformation and economic growth. 
 
-Text here!
+To illustrate, even though the Central Bank issue the policy/ measures such as the low interest rate to support businesses’ innovation but if the workers are unskilled and labor productivity are still low, it’s impossible to increase the competitiveness of the country and achieve the “Innovation-led Economy” goal. So instead of scoping my target audience to only financial agencies, I would like to broaden my target audience to other associated Thai government agencies such as Ministry of Labour. This is because to overcome this middle-income trap structural problem we need the strong cooperations across organization to create the meaningful and impact economic movement.
+
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+In every key message I put in the story, I try to have the data visualization or quote from reliable source such as the World Bank and IMF etc. to support my statement. So, it’s more concreate and solid. This is because my target audiences are policy makers specific in government agencies, hence, numbers and sources of data are very important, especially when I want my visualization to create impact and persuade enough for call to action.
 
-Text here!
+As a result, my design decision is mainly depending on the key message I would like to convey. What I learned from this class is that each type of chart has its own characteristic. If we select the chart wisely it can create the impact and powerful pursuasiveness to the audience. For example, if I would like to compare Thailand’s ranking with other countries, I would use bar chart. But if I want to emphasize the portion of economic variables in Thailand itself, I will use donut chart. If I would like to see the Thailand’ competitiveness development overtime compares with peers in the region, I would use the line racing chart. Hence, picking the right chart for the key message is very crucial.
+
+The color technique is also very importance. What I learned from this class is that you can use color for symbolic the sentiment, distinguish the elements or even highlight the trends and pattern. In this project, I specifically use green teal to signify Thailand and grey for other countries. And I try to be consistence across the story so the audience can easily and intuitively comprehend, with just one glance at the visualization, that the graph pertains to Thailand's context. My background is mostly black or white so the audience can easily read the content. Additionally, I am meticulous in selecting display pictures/images that effectively convey my messages as well as the quote.
+
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+1. “World Tourism Organization.” Global and regional tourism performance. Accessed February 28, 2023. https://www.unwto.org/tourism-data/global-and-regional-tourism-performance.
+2. “World Tourism Organization.” Global and regional tourism performance. Accessed February 28, 2023. https://www.unwto.org/tourism-data/global-and-regional-tourism-performance.
+3. “Overview, Thailand.” World Bank. Accessed February 28, 2023. https://www.worldbank.org/en/country/thailand/overview#1.
+4. “Open Government Data of Thailand.” imgHeader. Accessed February 28, 2023. https://data.go.th/dataset.
+5. “Travel & Tourism Economic Impact: World Travel & Tourism Council (WTTC).” World Travel & Tourism Council. Accessed February 28, 2023. https://wttc.org/research/economic-impact.
+6. “Can Thailand Escape the Middle-Income Trap?” Knowledge at Wharton. Accessed February 28, 2023. https://knowledge.wharton.upenn.edu/article/can-thailand-escape-middle-income-trap/.
+7. Paus, Eva. “Escaping the Middle-Income Trap: Innovate or Perish.” Asian Development Bank. Asian Development Bank, March 3, 2017. https://www.adb.org/publications/escaping-middle-income-trap-innovate-or-perish.
+8. “Thailand , World Bank Data.” Data. Accessed February 28, 2023. https://data.worldbank.org/country/TH.
+9. “Middle Income Countries.” World Bank. Accessed February 28, 2023. https://www.worldbank.org/en/country/mic.
+10. “How to Avoid the 'Middle-Income Trap'.” ODI. Accessed February 28, 2023. https://odi.org/en/insights/how-to-avoid-the-middle-income-trap/#:~:text=Most%20low%2Dincome%20countries%20.
+11. Triki Taffere Tesfachew Jonathan Said Melat Tekaligne, Chema, Taffere Tesfachew Governance Advisor, Jonathan Said Head of Inclusive Growth and Private-Sector Development Practice, and Melat Tekaligne Advisor. “How Can African Countries Avoid the Middle-Income Trap?” Institute for Global Change. Accessed February 28, 2023. https://institute.global/advisory/how-can-african-countries-avoid-middle-income-trap.
+12. “Policy Brief, Thailand.” GEM Global Entrepreneurship Monitor. Accessed February 28, 2023. https://www.gemconsortium.org/economy-profiles/thailand-2.
+13. Benjamin, Daniel, Kristen Cooper, Ori Heffetz, and Miles Kimball. “Measuring the Essence of the Good Life.” IMF. Accessed February 28, 2023. https://www.imf.org/en/Publications/fandd/issues/2021/12/Measuring-Essence-Good-Life-Benjamin-Cooper-Heffetz-Kimball#:~:text=A%20major%20reason%20the%20HDI,in%20a%20reasonably%20comparable%20way.
+14. “Thailand Needs to Innovate to Avoid 'Middle Income Trap'.” UNCTAD, September 17, 2015. https://unctad.org/news/thailand-needs-innovate-avoid-middle-income-trap.
+15. “Working Paper Series - Financial Reforms and Innovation: a Micro-Macro Perspective.” European Central Bank. Accessed February 28, 2023. https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2544~004fc38090.en.pdf.
+16. “Skills Development.” World Bank. Accessed February 28, 2023. https://www.worldbank.org/en/topic/skillsdevelopment.
+17. “The Role and Impact of Infrastructure in Middle-Income Countries.” Asian Development Bank. Accessed February 28, 2023. https://www.adb.org/sites/default/files/publication/359136/ewp-518.pdf.
 
-Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+## Project reflections
+When I first draft my outline, I did not plan to have many data visualizations but more focusing on the story. But as the process went on part II, I dig into more thought and trying to emphasize as if I were a reader i.e. policy maker, what I would like to see. And that’s led to more data visualizations as I think those visualizations are solid evidence to convince my statement and my call to action. I enjoy utilizing many tools that I have never used it before such as Shorthand, Flourish etc. and amazed of how easy-to-use, yet impactful they are. My hardest part of this project is in Part II where I had to implement everythings I have on paper into the actual wireframe i.e. shorthand and asking for feedback from expertises in both economic field and data analytic fields. The user research provides me a very valuable comments and hence, I’ll be able to compete all my jigsaws and produce more complete story in Part III.
+In summary, this project allows me to utilize all the building blocks and techniques since day one in class along the way to accomplish this final story. The most important lessons that I have learned here is to ask, “What is your key message?” and “Does your visualization conveys that message effectively?” Now, I am able to critique the visualizations, breaking down into components, and to provide a clear constructive feedback on what works well and what can be improved. This accomplishment aligns with my goal, as stated on my portfolio page, that is to create the visualization that can bring everyone to the same page, regardless of who they are and where they are from.
 
-Text here!
+## One minute Pitch reflection
+One minute presentation is not an easy task. From more than ten graphs and images, which one should I pick? How can I effective get them to resonate with my story and follow along on my presentation especially when my content is very complex and has a specific target audience? I decided to think back to day one when I first came up with the idea for this topic. It started from my curiosity! Why Thailand is so popular, but we are still so poor! And this is how I planned to get the attention from the audiences. I then took them through the middle-income trap journey, how to overcome such trap and ended with policy recommendation. I have prepared the script and practices pitching million times. Unfortunately, due to technical difficulties on the day of my presentation, I was unable to communicate all the messages I had planned to share with the class. Despite this setback, I did gain valuable experience in handling unexpected situations, which is another valuable lesson that I took away from this class.
