@@ -1,33 +1,19 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Pearry Portfolio
+This is my Portfolio for Telling Stories with Data Class at CMU
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+## About me
+Hello! My name is Phantira Khachichit, or you can call me Pearry. I'm from Bangkok, Thailand. I am currently continue my Master Degree in Public Policy Data Analytics at Heinz College, Carnegie Mellon University (CMU). Prior to CMU, I studied Accounting and started my career path as associated auditor at Price Waterhouse Coopers. As a team leader, my role was to design methodology for reviewing and auditing business processes based on companies’ risks for a team as well as analyzed financial statements to investigate significant and unexpected financial events. 
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+I then shifted my career path to work as government agency at a Central Bank of Thailand. Here, I has a chance to be in "Supervisory Technology Division". My job invloved in developing the innovative tools and applications to support supervisory functions and enhance efficiency in risk monitoring for financial supervisory processes. Besides these, my resposibility was to perform data analysis to support policy questions and to recommend financial stability measures using transactional data from all financial institutions in Thailand. All of these experiences silently become my new skill and trigger my eagerness in data analytics and thus, have led me to a new journey here at CMU. I have learned, tried, failed and successed in many new things in the past few years and "Telling Stories with Data" is another journey that I'm looking forward to explore more! 
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+![2febb7f7-e649-4b05-a7a1-c0a139f1e9c0](https://user-images.githubusercontent.com/67538479/213560625-77f08b5e-c312-4bac-8069-48aeaee58ebf.jpg)
 
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+## What I hope to learn
+In this era of big data, we can not deny that data is everywhere and waiting for us to explore and extract the meaningful insight from it. However, interestingly that even we use the most complexity of ML or AI model, the result can be meaningless without the good visualization. Thus, I personally think that learning how to digest those complexity and visualize them in a way that helps the audiences see and gain better understand of story behind data is very important. I hope that I can learn how to create the right visualization that can bring everyone to the same page, regardless of who they are and where they are from.
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+My plan after the graduation is to go back to Thailand and continue my role as an senior examiner at the central bank. Regardless, I expect that the knowledge and experiences that I have gained from CMU will bring a great change to my organization as my goal is to harness data and technology to provide better financial sustainable development to my country.
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -39,65 +25,5 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
-
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-### Creating tables
-
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
-
-### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
