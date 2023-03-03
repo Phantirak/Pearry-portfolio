@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://phantirak.github.io/pearry-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
 From final project part I where I developed the outline and draft my sketch to part II where I started to take the reader through my story wireframes and seek for feedback, now we reach the final part of the story! In this project part III, I will take you through all the revision and decision I have made to reach my final version. And here is the link to my final story **“Middle-Income Trap, Thailand”!**
