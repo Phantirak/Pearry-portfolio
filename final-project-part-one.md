@@ -1,8 +1,6 @@
 | [home page](https://phantirak.github.io/pearry-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 
 Project summary 
@@ -14,6 +12,7 @@ As my background is in a financial government agency, my target readers in this 
 
 
 ## Initial sketches
+
 Project Structure
 In my project structure, I will divide my storytelling into three phases as below:
  
