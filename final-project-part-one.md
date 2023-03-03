@@ -64,32 +64,31 @@ For the solution proposal part, I plan to have the short-term and long-term solu
 
 
 # The data
-The data I used in my project is all from the public data sources. Thus, it is highly reliable, transparent, and easily access. I devide my data into three categories:
+The data I used in my project is all from the public data sources. Thus, it is highly reliable, transparent, and easily access. 
+I devide my data into three categories:
 
 **1.	The tourism data**
 This data is mainly from the World Tourism Organization (UNWTO). It is the United Nations public agency responsible for promoting tourism as a tool for economic development, job creation, and poverty reduction. UNWTO plays an important role in shaping the future of global tourism and encouraging international cooperation in tourism, thus , the data provided from its website is not only the volume of inbound tourism but also includes economic perspectives/indicators such as GDP and employment in tourism industries across countries. In addition, the website also have the dashboard for monitoring the tourism movement/status for different countries around the world. Thus, it’s very useful for me when I have to choose the countries that I would like to compared with. As a result, it reduces size and time for
 download dataset.
 
-Dashboard https://www.unwto.org/tourism-data/global-and-regional-tourism-performance 
-Data set https://www.unwto.org/tourism-statistics/tourism-statistics-database 
-Indicators https://www.unwto.org/tourism-statistics/key-tourism-statistics 
+Dashboard [UNWTO1](https://www.unwto.org/tourism-data/global-and-regional-tourism-performance)
+Data set [UNWTO2](https://www.unwto.org/tourism-statistics/tourism-statistics-database)
+Indicators [UNWTO3](https://www.unwto.org/tourism-statistics/key-tourism-statistics)
 
 **2.	The global economic data**
 My primary source of economic data is from World Bank website. The World Bank is a leading provider of data on global development covering a wide range of topics, including economics. The most advantage of using world bank data is that it provides the comparable economic variables across different countries in a comprehensive format. Thus, its useful for my macroeconomic analysis for example, compared Thai GDP or Foreign Direct Investment (FDI) with other top tier countries in tourism industries or compared Thai economic with the countries in the same region. My primary dataset is under the World Development Indicators (WDI) and Global Economic Monitor (GEM).
 
 Data set: 
-https://databank.worldbank.org/home.aspx  and https://databank.worldbank.org/databases 
-https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS?end=2021&locations=TH&start=1970&type=shaded&view=chart
-
-https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TH 
-
-https://data.worldbank.org/indicator/SL.TLF.TOTL.IN?locations=TH 
+[WorldBank1](https://databank.worldbank.org/databases) 
+[WorldBank2](https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS?end=2021&locations=TH&start=1970&type=shaded&view=chart)
+[WorldBank3](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TH)
+[WorldBank4](https://data.worldbank.org/indicator/SL.TLF.TOTL.IN?locations=TH) 
 
 **3.	Thai Government Open Data**
 
 This datasource is provided by Thai government aiming to make government data accessible and available to the public. This website includes data from various government agencies and departments such as statistics, demographic information, economic indicators, and others. I will use this data to create visualizations that have the content specifically in Thai context such as data analysis in Thai labor force, wage rate and number of SMEs (Small and Medium-sized Enterprises) etc. In addition, I plan to use the statistic report from this source to support my proposed solution as well.
 
-Data set: https://data.go.th/en/dataset?q=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7&sort=score+desc%2C+metadata_modified+desc 
+Data set: [ThaiGovData](https://data.go.th/en/dataset?q=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7&sort=score+desc%2C+metadata_modified+desc) 
 
 
 # Method and medium
